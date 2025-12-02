@@ -79,4 +79,4 @@
   <li>Git & GitHub Essentials — Saylor.org (May 2023)</li>
 </ul>
 
-<p align="center"><i>README last updated on: <!-- YYYY-MM-DD --> </i></p>
+<p align="center"><i>README last updated on: 2025-12-02</i></p>
