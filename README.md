@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page!<br/> I’m <b>Sagar Rai</b>, iOS Developer & B.Tech (CS) student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Indore, India</b>.</p>
+<p>Welcome to my page!<br/> I’m <b>Sagar Rai</b>, iOS Developer & B.Tech (CS) student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Bhopal, India</b>.</p>
 
 <h3>Things I code with</h3>
 <p>
